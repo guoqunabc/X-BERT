@@ -26,7 +26,7 @@ This is a README for the experimental code in our paper
 	> (xbert-env) conda install scikit-learn
 	> (xbert-env) conda install pytorch=0.4.1 cuda90 -c pytorch
 	> (xbert-env) pip install pytorch-pretrained-bert==0.6.2
-	> (xbert-env) pip install allennlp=0.8.4
+	> (xbert-env) pip install allennlp==0.8.4
 	> (xbert-env) pip install -e .
 	
 **Warning: you need to install pytorch=0.4.1 based on the cuda version on your machine.
