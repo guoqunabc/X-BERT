@@ -1,7 +1,7 @@
 # eXtreme Multi-label Text Classification with BERT
 
 This is a README for the experimental code in our paper
->[X-BERT: eXtreme Multi-label Text Classification with BERT](#)
+>[X-BERT: eXtreme Multi-label Text Classification with BERT](https://arxiv.org/pdf/1905.02331.pdf)
 
 >Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit Dhillon
 
